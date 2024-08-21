@@ -1,0 +1,9 @@
+MIT License
+
+Copyright (c) 2024 Galdy DIANZINGA
+
+Par la présente, il est accordé gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel"), d'exploiter le Logiciel sans restriction, y compris, mais sans s'y limiter, les droits d'utiliser, de copier, modifier, fusionner, publier, distribuer, sous-licencier et/ou vendre des copies du Logiciel, sous réserve des conditions suivantes :
+
+La notice de droit d'auteur ci-dessus et cette notice de permission doivent être incluses dans toutes les copies ou parties substantielles du Logiciel.
+
+LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS MAIS SANS S'Y LIMITER À, LES GARANTIES IMPLICITES DE QUALITÉ MARCHANDE, D'ADAPTATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS LE(A) TITULAIRE(S) DU DROIT D'AUTEUR OU LES DÉTENTEURS DE LA LICENCE NE POURRONT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ, QUE CE SOIT DANS UNE ACTION EN CONTRAT, EN RESPONSABILITÉ STRICTE OU EN RESPONSABILITÉ DÉLICTUELLE, RÉSULTANT DE OU EN LIEN AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES AFFAIRES DANS LE LOGICIEL.
