@@ -1,31 +1,12 @@
-// userRoutes.js
-
 const express = require('express');
 const router = express.Router();
-const User = require('../models/userModel');
+const userController = require('../controllers/userController');
 
-// Route pour obtenir tous les utilisateurs
-router.get('/', async (req, res) => {
-    try {
-        const users = await User.find();
-        res.json(users);
-    } catch (error) {
-        res.status(500).json({ message: error.message });
-    }
-});
-
-// Route pour créer un nouvel utilisateur
-router.post('/', async (req, res) => {
-    const user = new User({
-        name: req.body.name,
-        email: req.body.email
-    });
-    try {
-        const newUser = await user.save();
-        res.status(201).json(newUser);
-    } catch (error) {
-        res.status(400).json({ message: error.message });
-    }
-});
+// Routes pour les utilisateurs
+router.get('/', userController.getAllUsers);
+router.post('/', userController.createUser);
+router.get('/:id', userController.getUserById);
+router.put('/:id', userController.updateUser);
+router.delete('/:id', userController.deleteUser);
 
 module.exports = router;
